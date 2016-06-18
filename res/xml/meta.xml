@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" 
+   android:minWidth="250dp"
+   android:minHeight="40dp"
+   android:initialLayout="@layout/appwidget_main">
+<!-- 该配置文件只有一个根标签 没有自标签 --> 
+</appwidget-provider>
